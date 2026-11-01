@@ -1,3 +1,11 @@
+> **Development moved to the unified AFRACANet AI repository.**
+>
+> Use [Brikita/afracanet-input-finance](https://github.com/Brikita/afracanet-input-finance)
+> for the complete platform and shared setup. Credit intelligence now lives in
+> [modules/credit-intelligence](https://github.com/Brikita/afracanet-input-finance/tree/main/modules/credit-intelligence).
+> This repository retains the original source history for reference. New work,
+> issues and builds belong in the canonical repository.
+
 # AFRACANet AI â€” Credit Intelligence
 
 AFRACANet AI connects agricultural credit evidence, lender decisions, input
